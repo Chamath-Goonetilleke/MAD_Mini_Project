@@ -39,4 +39,18 @@
     <string name="view_btn">VIEW</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="image">Image</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_spare_part">Add Spare Part</string>
+    <string name="update_spare_part">Update Spare Part</string>
+    <string name="delete_spare_part">Delete Spare Part</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_cart">Add to cart</string>
 </resources>

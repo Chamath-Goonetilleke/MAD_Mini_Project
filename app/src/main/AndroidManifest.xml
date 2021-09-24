@@ -10,6 +10,32 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MadMini">
         <activity
+            android:name=".it20122096.spare_parts_comp.ShowSpareParts"
+            android:exported="true" >
+
+
+        </activity>
+        <activity
+            android:name=".it20122096.spare_parts_comp.ViewAllSpareParts"
+            android:exported="true">
+
+
+
+
+        </activity>
+        <activity
+            android:name=".it20122096.spare_parts_comp.UpdateSparePart"
+            android:exported="true"></activity>
+        <activity
+            android:name=".it20122096.spare_parts_comp.AddSparePart"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".Quotation_Items"
             android:exported="true"
             android:parentActivityName=".it20122096.BulidPc">
@@ -21,7 +47,6 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".it20122096.BulidPc" />
-
         </activity>
         <activity
             android:name=".it20122096.Create_Quotation"
@@ -52,13 +77,7 @@
         <activity
             android:name=".it20122096.DashBoard"
             android:exported="true"
-            android:theme="@style/Theme.MaterialComponents.NoActionBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:theme="@style/Theme.MaterialComponents.NoActionBar"></activity>
     </application>
 
 </manifest>

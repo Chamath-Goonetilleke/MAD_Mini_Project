@@ -9,6 +9,7 @@ import android.widget.ImageButton;
 
 import com.example.madmini.R;
 import com.example.madmini.it20122096.BulidPc;
+import com.example.madmini.it20122096.spare_parts_comp.ShowSpareParts;
 
 public class DashBoard extends AppCompatActivity {
 
@@ -31,6 +32,11 @@ public class DashBoard extends AppCompatActivity {
               startActivity(new Intent(getApplicationContext(), BulidPc.class));
 
             }
+        });
+
+        parts.setOnClickListener(view -> {
+            Intent intent = new Intent(getApplicationContext(), ShowSpareParts.class);
+            startActivity(intent);
         });
     }
 }
