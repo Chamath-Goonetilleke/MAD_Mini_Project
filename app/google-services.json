@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067087320189",
+    "firebase_url": "https://laptop-2d53e-default-rtdb.firebaseio.com",
+    "project_id": "laptop-2d53e",
+    "storage_bucket": "laptop-2d53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067087320189:android:1a924f339b5d965169cd14",
+        "android_client_info": {
+          "package_name": "com.example.laptop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067087320189-drsqsausbmch4botddhgp86u7g58tn4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuOVURyWtwz-edRyld3kkdbGzr75Q41X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067087320189-drsqsausbmch4botddhgp86u7g58tn4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

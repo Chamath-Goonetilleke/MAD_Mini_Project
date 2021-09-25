@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1067087320189-drsqsausbmch4botddhgp86u7g58tn4d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://laptop-2d53e-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1067087320189</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuOVURyWtwz-edRyld3kkdbGzr75Q41X0</string>
+    <string name="google_app_id" translatable="false">1:1067087320189:android:1a924f339b5d965169cd14</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuOVURyWtwz-edRyld3kkdbGzr75Q41X0</string>
+    <string name="google_storage_bucket" translatable="false">laptop-2d53e.appspot.com</string>
+    <string name="project_id" translatable="false">laptop-2d53e</string>
+</resources>
