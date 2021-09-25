@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Parcelable;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ScrollView;
@@ -21,10 +22,10 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-public class CartActivity extends AppCompatActivity {
+public class CartActivity extends AppCompatActivity implements CartAdapter.SelectItem {
     private CartAdapter adapter;
     private RecyclerView recyclerView;
-    private TextView txtTotalFee, txtEmpty, totalQty;
+    private TextView txtTotalFee, txtEmpty;
     private Button checkOut;
     private ScrollView scrollView;
     private double total;
@@ -32,6 +33,7 @@ public class CartActivity extends AppCompatActivity {
     private int count = 0;
     private double tQty = 0;
     Totals tot;
+    CartAdapter cartAdapter;
 //    private Order order;
 //    FirebaseAuth firebaseAuth;
 //    FirebaseUser firebaseUser;
@@ -60,9 +62,11 @@ public class CartActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
 
-        FirebaseRecyclerOptions<Order> options = new FirebaseRecyclerOptions.Builder<Order>().setQuery(mBase, Order.class).build();
-        adapter = new CartAdapter(options);
+        FirebaseRecyclerOptions<ItemOrder> options = new FirebaseRecyclerOptions.Builder<ItemOrder>().setQuery(mBase, ItemOrder.class).build();
+        adapter = new CartAdapter(options, getApplicationContext(), this::selectItems);
         recyclerView.setAdapter(adapter);
+
+
 
         FirebaseDatabase.getInstance().getReference().child("Cart")
                 .addChildEventListener(new ChildEventListener() {
@@ -127,6 +131,13 @@ public class CartActivity extends AppCompatActivity {
     protected void OnStop(){
         super.onStop();
         adapter.stopListening();
+    }
+
+    @Override
+    public void selectItems(ItemOrder itemOrder) {
+
+        startActivity(new Intent(CartActivity.this, PaymentActivity.class).putExtra("ordered", itemOrder));
+
     }
 //    private void calculateCard(){
 //        double Totals = Math.round((order.getTotal()));

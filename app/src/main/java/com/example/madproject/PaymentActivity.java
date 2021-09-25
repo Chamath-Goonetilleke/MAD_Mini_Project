@@ -27,6 +27,9 @@ import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 public class PaymentActivity extends AppCompatActivity {
     Button attach;
@@ -41,9 +44,13 @@ public class PaymentActivity extends AppCompatActivity {
     String uId;
     TextView txtName;
     Payment imageUploadInfo;
-    String name, cNumber, address;
-    OrdersTable ordersTable;
-    Totals totals;
+    List<String> list = new ArrayList<>();
+    String itemType;
+    String iId = null;
+    String quotation_id = null;
+    int price;
+    Date date;
+
 
 
     @Override
@@ -63,37 +70,22 @@ public class PaymentActivity extends AppCompatActivity {
         uId = firebaseUser.getUid().toString();
 
 
-//        databaseReference.addListenerForSingleValueEvent(new ValueEventListener() {
-//            @Override
-//            public void onDataChange(@NonNull DataSnapshot snapshot) {
-//                if(snapshot.hasChildren()){
-////                    name = snapshot.child("name").getValue().toString();
-//                    String totalP = Totals.getTotal();
-//                    System.out.println(totalP);
-//
-////                    cNumber = snapshot.child("cNumber").getValue().toString();
-////                    address = snapshot.child("address").getValue().toString();
-//                    ordersTable.setName(name);
-//                    ordersTable.setAddress(address);
-//                    ordersTable.setcNumber(cNumber);
-//                    ordersTable.setTotal(totalP);
-//
-//                    databaseReference.child(uId).setValue(ordersTable);
-//
-//
-////                                        imageUploadInfo.setName(snapshot.child("name").getValue().toString());
-////                                        imageUploadInfo.setcNumber(snapshot.child("cNumber").getValue().toString());
-////                                        imageUploadInfo.setAddress(snapshot.child("address").getValue().toString());
-//                }else{
-//                    Toast.makeText(PaymentActivity.this, "No source", Toast.LENGTH_SHORT).show();
-//                }
-//            }
-//
-//            @Override
-//            public void onCancelled(@NonNull DatabaseError error) {
-//
-//            }
-//        });
+
+
+        Intent intent = getIntent();
+        if(intent.getExtras()!=null){
+            ItemOrder itemOrder = (ItemOrder) intent.getSerializableExtra("ordered");
+//            Quotations quotations = (Quotations) intent.getSerializableExtra("quotation");
+
+            itemType = itemOrder.getItemType();
+            price = itemOrder.getPrice();
+            iId = itemOrder.getItemId();
+//            quotation_id = quotations.getId;
+
+
+        }
+
+
 
         attach.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -152,7 +144,10 @@ public class PaymentActivity extends AppCompatActivity {
                             progressDialog.dismiss();
                             Toast.makeText(getApplicationContext(), "Image Uploaded Successfully ", Toast.LENGTH_LONG).show();
 
-                            imageUploadInfo = new Payment(uId, taskSnapshot.getUploadSessionUri().toString());
+//                            DatabaseReference readRef = FirebaseDatabase.getInstance().getReference().child("");
+//                            Uri url = storageReference2.getDownloadUrl()
+
+                            imageUploadInfo = new Payment(uId, taskSnapshot.getUploadSessionUri().toString(),iId, itemType, price);
 
 
                             String ImageUploadId = databaseReference.push().getKey();
@@ -166,4 +161,5 @@ public class PaymentActivity extends AppCompatActivity {
 
         }
     }
+
 }

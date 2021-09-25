@@ -2,30 +2,28 @@ package com.example.madproject;
 
 import java.io.Serializable;
 
-public class Order implements Serializable {
-
-    private String id;
+public class ItemOrder implements Serializable {
+    private String itemId;
     private String uId;
     private int price;
     private String itemType;
 
-
-    public Order() {
+    public ItemOrder() {
     }
 
-    public Order(String id, String uId, int price, String itemType) {
-        this.id = id;
+    public ItemOrder(String itemId, String uId, int price, String itemType) {
+        this.itemId = itemId;
         this.uId = uId;
         this.price = price;
         this.itemType = itemType;
     }
 
-    public String getId() {
-        return id;
+    public String getItemId() {
+        return itemId;
     }
 
-    public void setId(String id) {
-        this.id = id;
+    public void setItemId(String itemId) {
+        this.itemId = itemId;
     }
 
     public String getuId() {
