@@ -77,7 +77,7 @@ public class CartAdapter extends FirebaseRecyclerAdapter<Order, CartAdapter.cart
             super(itemView);
             type = itemView.findViewById(R.id.firstname);
 //            quantity = itemView.findViewById(R.id.lastname);
-            price = itemView.findViewById(R.id.age);
+            price = itemView.findViewById(R.id.lastname);
             closeBtn = itemView.findViewById(R.id.imageButtonClose);
 
 
