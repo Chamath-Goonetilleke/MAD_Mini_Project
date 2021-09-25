@@ -1,6 +1,5 @@
 package com.example.madproject;
 
-import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
@@ -33,7 +32,7 @@ public class RegisterActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_register);
+        setContentView(R.layout.it20122614_activity_register);
 
         ActionBar actionBar = getSupportActionBar();
         getSupportActionBar().setTitle("Create new account");

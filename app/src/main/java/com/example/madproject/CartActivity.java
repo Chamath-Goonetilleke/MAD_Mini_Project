@@ -40,7 +40,7 @@ public class CartActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cart);
+        setContentView(R.layout.it20122614_activity_cart);
         ActionBar actionBar = getSupportActionBar();
         getSupportActionBar().setTitle("Cart");
 
