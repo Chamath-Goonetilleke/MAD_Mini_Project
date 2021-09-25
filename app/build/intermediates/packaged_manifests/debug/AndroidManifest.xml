@@ -23,25 +23,20 @@
         android:testOnly="true"
         android:theme="@style/Theme.MadMini" >
         <activity
+            android:name="com.example.madmini.it20122096.spare_parts_comp.AddCartSparePart"
+            android:exported="true" />
+        <activity
             android:name="com.example.madmini.it20122096.spare_parts_comp.ShowSpareParts"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
         <activity
             android:name="com.example.madmini.it20122096.spare_parts_comp.ViewAllSpareParts"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
         <activity
             android:name="com.example.madmini.it20122096.spare_parts_comp.UpdateSparePart"
             android:exported="true" />
         <activity
             android:name="com.example.madmini.it20122096.spare_parts_comp.AddSparePart"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:exported="true" />
         <activity
             android:name="com.example.madmini.Quotation_Items"
             android:exported="true"
@@ -84,7 +79,13 @@
         <activity
             android:name="com.example.madmini.it20122096.DashBoard"
             android:exported="true"
-            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+            android:theme="@style/Theme.MaterialComponents.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"

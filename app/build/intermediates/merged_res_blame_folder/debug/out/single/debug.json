@@ -1,194 +1,198 @@
 [
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_shopping_cart_48.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_shopping_cart_48.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_single_quotation_item_rcv.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\single_quotation_item_rcv.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_show_spare_parts.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_show_spare_parts.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_view_all_spare_parts.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_view_all_spare_parts.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_edit_48.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_edit_48.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quotation_items.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_quotation_items.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_webp_net_resizeimage1.jpg.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\webp_net_resizeimage1.jpg"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_spare_parts.jpg.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\spare_parts.jpg"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_nitrotechnew.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\nitrotechnew.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_build__1_.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\build__1_.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_spare_parts.jpg.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\spare_parts.jpg"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_item_spare_part.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\layout_item_spare_part.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_nitrotechlogo.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\nitrotechlogo.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_cloud_download_24.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\ic_baseline_cloud_download_24.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_home_page_96.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_home_page_96.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_create_dialog.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\create_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_item_spare_part.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\layout_item_spare_part.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_remove_48.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_remove_48.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_create_quotation.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_create_quotation.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_laptop_100.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_laptop_100.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_screenshot__180_.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\screenshot__180_.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dashboard.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bulid_pc.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_bulid_pc.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_download_application_software_button_icon_png_favpng_4f3fpg53ayteiltkak7s7ijsp_removebg_preview.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\download_application_software_button_icon_png_favpng_4f3fpg53ayteiltkak7s7ijsp_removebg_preview.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_remove_36.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_remove_36.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quotation_items.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_quotation_items.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_build__1_.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\build__1_.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_download_application_software_button_icon_png_favpng_4f3fpg53ayteiltkak7s7ijsp_removebg_preview.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\download_application_software_button_icon_png_favpng_4f3fpg53ayteiltkak7s7ijsp_removebg_preview.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_screenshot__180_.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\screenshot__180_.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_remove_36.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_remove_36.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\menu_option_spare_parts_menu.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\menu\\option_spare_parts_menu.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_view_all_spare_parts.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_view_all_spare_parts.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_spare_part.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_update_spare_part.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_single_quotation_rcv.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\single_quotation_rcv.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_female_profile_48.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_female_profile_48.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_shopping_cart_48.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_shopping_cart_48.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_download_48.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_download_48.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_create_dialog.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\create_dialog.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_item_spare_part_client.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\layout_item_spare_part_client.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_female_profile_48.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_female_profile_48.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_spare_part.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_update_spare_part.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_webp_net_resizeimage1.jpg.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\webp_net_resizeimage1.jpg"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_download_48.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_download_48.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_edit_48.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_edit_48.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_webp_net_resizeimage.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\webp_net_resizeimage.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_single_quotation_rcv.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\single_quotation_rcv.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_spare_part.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_add_spare_part.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_remove_48.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_remove_48.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_item_spare_part_client.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\layout_item_spare_part_client.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_webp_net_resizeimage.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\webp_net_resizeimage.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_home_page_48.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_home_page_48.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_spare_part.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_add_spare_part.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_cloud_download_24.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\ic_baseline_cloud_download_24.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_single_quotation_item_rcv.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\single_quotation_item_rcv.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_spare_parts_cover.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\spare_parts_cover.png"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_spare_parts_cover.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\spare_parts_cover.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bulid_pc.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_bulid_pc.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_create_quotation.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_create_quotation.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_home_page_48.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_home_page_48.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_cart_spare_part.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_add_cart_spare_part.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\menu_option_spare_parts_menu.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\menu\\option_spare_parts_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_laptop_100.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_laptop_100.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_nitrotechlogo.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\nitrotechlogo.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icons8_home_page_96.png.flat",
-        "source": "C:\\Users\\Predator\\Desktop\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable-v24\\icons8_home_page_96.png"
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_show_spare_parts.xml.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\layout\\activity_show_spare_parts.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_nitrotechnew.png.flat",
+        "source": "G:\\Projects\\Android\\Dasun_mad\\MAD_Mini_Project-master\\app\\src\\main\\res\\drawable\\nitrotechnew.png"
     }
 ]

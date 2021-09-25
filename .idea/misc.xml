@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_add_cart_spare_part.xml" value="0.21981981981981982" />
         <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_add_spare_part.xml" value="0.21981981981981982" />
         <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_bulid_pc.xml" value="0.21981981981981982" />
         <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_create_quotation.xml" value="0.21981981981981982" />
+        <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_dashboard.xml" value="0.21981981981981982" />
         <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_quotation_items.xml" value="0.21981981981981982" />
         <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_show_spare_parts.xml" value="0.21981981981981982" />
         <entry key="..\:/Projects/Android/Dasun_mad/MAD_Mini_Project-master/app/src/main/res/layout/activity_update_spare_part.xml" value="0.21981981981981982" />
@@ -26,7 +28,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

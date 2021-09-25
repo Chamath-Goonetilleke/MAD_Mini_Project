@@ -1996,8 +1996,11 @@ id bounceEnd
 id bounceStart
 id btn_add
 id btn_add_cart
+id btn_add_spare
 id btn_cancel
 id btn_cancel_add
+id btn_manage_spare
+id btn_submit_add_cart
 id btn_update
 id build_btn
 id button4
@@ -2157,6 +2160,7 @@ id line1
 id line3
 id linear
 id linearLayout
+id linearLayout2
 id listMode
 id list_item
 id masked
@@ -2266,6 +2270,7 @@ id q_pay
 id q_price
 id q_tot
 id q_view
+id quantity_num
 id radio
 id ratio
 id rcv1
@@ -2498,6 +2503,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_cart_spare_part
 layout activity_add_spare_part
 layout activity_bulid_pc
 layout activity_create_quotation
@@ -2712,6 +2718,7 @@ string icon_content_description
 string image
 string item_view_role_description
 string laptop_manage
+string manage_spare_part
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection

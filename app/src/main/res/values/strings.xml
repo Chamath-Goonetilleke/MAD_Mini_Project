@@ -47,10 +47,12 @@
     <string name="image">Image</string>
     <string name="add_image">Add Image</string>
     <string name="add_spare_part">Add Spare Part</string>
+    <string name="manage_spare_part">Manage Spare Part</string>
     <string name="update_spare_part">Update Spare Part</string>
     <string name="delete_spare_part">Delete Spare Part</string>
     <string name="edit">Edit</string>
     <string name="remove">Remove</string>
     <string name="cancel">Cancel</string>
     <string name="add_cart">Add to cart</string>
+
 </resources>
