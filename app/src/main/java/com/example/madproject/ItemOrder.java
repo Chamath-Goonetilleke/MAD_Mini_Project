@@ -8,6 +8,7 @@ public class ItemOrder implements Serializable {
     private int price;
     private String itemType;
 
+
     public ItemOrder() {
     }
 

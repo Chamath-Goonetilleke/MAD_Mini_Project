@@ -51,7 +51,7 @@ public class CartActivity extends AppCompatActivity implements CartAdapter.Selec
         scrollView = findViewById(R.id.scrollView);
         txtEmpty = findViewById(R.id.textViewDeliveryFee);
 //        totalQty = findViewById(R.id.textViewFeeId);
-        checkOut = findViewById(R.id.buttonCheckOut);
+//        checkOut = findViewById(R.id.buttonCheckOut);
 //        order = new Order();
 //        firebaseAuth = FirebaseAuth.getInstance();
 //        firebaseUser = firebaseAuth.getCurrentUser();
@@ -112,12 +112,12 @@ public class CartActivity extends AppCompatActivity implements CartAdapter.Selec
 
                     }
                 });
-        checkOut.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(CartActivity.this, PaymentActivity.class));
-            }
-        });
+//        checkOut.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                startActivity(new Intent(CartActivity.this, PaymentActivity.class));
+//            }
+//        });
 
 
 
