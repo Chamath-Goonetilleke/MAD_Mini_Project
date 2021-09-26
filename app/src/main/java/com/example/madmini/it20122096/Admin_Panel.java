@@ -9,8 +9,8 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.madmini.R;
-import com.example.madmini.it20115302.spare_parts_comp.AddSparePart;
-import com.example.madmini.it20115302.spare_parts_comp.ViewAllSpareParts;
+import com.example.madmini.it20115302.spare_parts_comp.view.AddSparePart;
+import com.example.madmini.it20115302.spare_parts_comp.view.ViewAllSpareParts;
 
 public class Admin_Panel extends AppCompatActivity {
 

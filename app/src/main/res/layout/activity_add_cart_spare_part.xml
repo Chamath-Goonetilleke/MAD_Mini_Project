@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:padding="15dp"
     android:background="@color/grayBlack"
-    tools:context=".it20115302.spare_parts_comp.AddSparePart">
+    tools:context=".it20115302.spare_parts_comp.view.AddSparePart">
 
     <ImageView
         android:layout_width="match_parent"

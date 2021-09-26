@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/grayBlack"
-    tools:context=".it20115302.spare_parts_comp.ViewAllSpareParts">
+    tools:context=".it20115302.spare_parts_comp.view.ViewAllSpareParts">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:layout_width="match_parent"

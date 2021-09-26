@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MadMini">
         <activity
-            android:name=".it20115302.spare_parts_comp.AddCartSparePart"
+            android:name=".it20115302.spare_parts_comp.view.AddCartSparePart"
             android:exported="true" />
         <activity
             android:name=".it20122096.LaptopOrders"
@@ -47,16 +47,16 @@
             android:name=".it20122614.AddressBookActivity"
             android:exported="true" />
         <activity
-            android:name=".it20115302.spare_parts_comp.ViewAllSpareParts"
+            android:name=".it20115302.spare_parts_comp.view.ViewAllSpareParts"
             android:exported="true" />
         <activity
-            android:name=".it20115302.spare_parts_comp.UpdateSparePart"
+            android:name=".it20115302.spare_parts_comp.view.UpdateSparePart"
             android:exported="true" />
         <activity
-            android:name=".it20115302.spare_parts_comp.ShowSpareParts"
+            android:name=".it20115302.spare_parts_comp.view.ShowSpareParts"
             android:exported="true" />
         <activity
-            android:name=".it20115302.spare_parts_comp.AddSparePart"
+            android:name=".it20115302.spare_parts_comp.view.AddSparePart"
             android:exported="true" />
         <activity
             android:name=".it20122096.PartOrders"

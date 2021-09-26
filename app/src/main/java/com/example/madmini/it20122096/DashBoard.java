@@ -8,10 +8,8 @@ import android.view.View;
 import android.widget.ImageButton;
 
 import com.example.madmini.R;
-import com.example.madmini.it20115302.spare_parts_comp.ShowSpareParts;
-import com.example.madmini.it20115302.spare_parts_comp.ViewAllSpareParts;
+import com.example.madmini.it20115302.spare_parts_comp.view.ShowSpareParts;
 import com.example.madmini.it20122614.ProfileActivity;
-import com.example.madmini.it20122614.RegisterActivity;
 
 public class DashBoard extends AppCompatActivity {
 

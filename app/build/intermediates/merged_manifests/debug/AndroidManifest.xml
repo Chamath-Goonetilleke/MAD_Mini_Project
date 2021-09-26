@@ -25,7 +25,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.MadMini" >
         <activity
-            android:name="com.example.madmini.it20115302.spare_parts_comp.AddCartSparePart"
+            android:name="com.example.madmini.it20115302.spare_parts_comp.view.AddCartSparePart"
             android:exported="true" />
         <activity
             android:name="com.example.madmini.it20122096.LaptopOrders"
@@ -58,16 +58,16 @@
             android:name="com.example.madmini.it20122614.AddressBookActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.madmini.it20115302.spare_parts_comp.ViewAllSpareParts"
+            android:name="com.example.madmini.it20115302.spare_parts_comp.view.ViewAllSpareParts"
             android:exported="true" />
         <activity
-            android:name="com.example.madmini.it20115302.spare_parts_comp.UpdateSparePart"
+            android:name="com.example.madmini.it20115302.spare_parts_comp.view.UpdateSparePart"
             android:exported="true" />
         <activity
-            android:name="com.example.madmini.it20115302.spare_parts_comp.ShowSpareParts"
+            android:name="com.example.madmini.it20115302.spare_parts_comp.view.ShowSpareParts"
             android:exported="true" />
         <activity
-            android:name="com.example.madmini.it20115302.spare_parts_comp.AddSparePart"
+            android:name="com.example.madmini.it20115302.spare_parts_comp.view.AddSparePart"
             android:exported="true" />
         <activity
             android:name="com.example.madmini.it20122096.PartOrders"

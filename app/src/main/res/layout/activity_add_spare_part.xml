@@ -6,7 +6,9 @@
     android:background="@color/grayBlack"
     android:padding="15dp"
     android:orientation="vertical"
-    tools:context=".it20115302.spare_parts_comp.AddSparePart">
+    android:clickable="true"
+    android:focusableInTouchMode="true"
+    tools:context=".it20115302.spare_parts_comp.view.AddSparePart">
 
     <ImageView
         android:layout_width="match_parent"

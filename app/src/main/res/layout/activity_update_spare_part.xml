@@ -5,8 +5,10 @@
     android:layout_height="match_parent"
     android:background="@color/grayBlack"
     android:padding="15dp"
+    android:clickable="true"
+    android:focusableInTouchMode="true"
     android:orientation="vertical"
-    tools:context=".it20115302.spare_parts_comp.AddSparePart">
+    tools:context=".it20115302.spare_parts_comp.view.AddSparePart">
 
     <ImageView
         android:layout_width="match_parent"
