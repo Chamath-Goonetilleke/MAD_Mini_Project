@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/drawable/full_rounded_corner_view.xml" value="0.3141025641025641" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/drawable/round_drawable.xml" value="0.18162393162393162" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/drawable/rounded_corner_view.xml" value="0.3828125" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/activity_display_laptop.xml" value="0.30085470085470084" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/activity_edit_laptop.xml" value="0.264" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/activity_view.xml" value="0.10683760683760683" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/bottom_sheet_laptop.xml" value="0.264" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/bottom_sheet_user_laptop.xml" value="0.16" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/layout/laptop_rv_item.xml" value="0.30085470085470084" />
+        <entry key="..\:/Workplace/Office/OnGoing/MAD Project/Laptop2/Laptop/app/src/main/res/menu/menu_main.xml" value="0.30085470085470084" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
